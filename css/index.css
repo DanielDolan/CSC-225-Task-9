@@ -1,0 +1,5 @@
+form, #display{
+    width: 85%;
+    max-width: 750px;
+    margin: auto;
+}
